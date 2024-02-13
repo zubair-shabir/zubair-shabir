@@ -3,9 +3,11 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning ***MERN***
+- 🌱 I’m currently learning ***React***
 
 - 👨‍💻 All of my projects are available at [https://zubairshabir.info/](https://zubairshabir.info/)
+
+
 
 
 - 📫 How to reach me **zubairshabir980@gmail.com**
