@@ -55,8 +55,8 @@
  
 </p>
 
-<p><img src="https://streak-stats.demolab.com/?user=zubair-shabir" alt="GitHub Streak" /></p>
+<!--   <p><img src="https://streak-stats.demolab.com/?user=zubair-shabir" alt="GitHub Streak" /></p>
 
-
+-->
 
 
