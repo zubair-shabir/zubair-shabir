@@ -3,8 +3,6 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning ***MERN***
-
 - 👨‍💻 All of my projects are available at [https://zubairshabir.site/](https://zubairshabir.site/)
 
 
